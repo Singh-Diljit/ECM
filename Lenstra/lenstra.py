@@ -1,4 +1,4 @@
-"""Two Implementations of Lenstra's elliptic-curve factorization."""
+"""Implementation of Lenstra's elliptic-curve factorization."""
 
 from random import randint
 from Point import Point
